@@ -16,6 +16,6 @@ is able to completely solve the board.
 
 I have run this tcl script in tcl 8.4 as well as 8.6. Tcl can be downloaded at ActiveState's website: https://www.activestate.com/products/tcl/downloads/
 
-Follow the install instructions then simply source the file in a tkcon by executing:
-  source path/to/file.tcl
+Follow the install instructions then simply source the file in a tkcon by executing: 
+  "source path/to/file.tcl"
 Or from the menu in tkcon, do File > Load File and select the tcl script from the file explorer.
